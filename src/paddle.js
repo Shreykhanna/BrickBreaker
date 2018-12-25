@@ -22,7 +22,7 @@ export default class Paddle{
       this.speed=this.maxspeed;
     }
     stop(){
-      this.speed=0;  
+      this.speed=0;
     }
     draw(ctx)
     {
